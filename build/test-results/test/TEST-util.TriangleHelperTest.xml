@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="util.TriangleHelperTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-06-14T23:24:20" hostname="1178578-C02PW9L3G8WP" time="0.001">
+  <properties/>
+  <testcase name="checkValidLength" classname="util.TriangleHelperTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
